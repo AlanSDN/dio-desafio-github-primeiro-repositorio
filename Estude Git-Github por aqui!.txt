@@ -1,5 +1,0 @@
-## Area de Pesquisa e Estudo para o Git/Github
-
-
-
-- Conhecer e memorizar comandos do git/github[link](https://www.treinaweb.com.br/blog/comandos-do-git-que-voce-precisa-conhecer-parte-1)
