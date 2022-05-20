@@ -4,4 +4,4 @@ Repositorio criado para o Desafio de Projeto.
 
 
 ## Iinks úteis
-[Sintaxe Basica Markdown](https://github.com/AlanSDN/dio-desafio-github-primeiro-repositorio.git)
+[Sintaxe Basica Markdown](https://www.inteligenciaurbana.org/2021/04/markdown-parte1.html)
